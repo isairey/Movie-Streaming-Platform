@@ -207,7 +207,7 @@ npm run start:dev
 - Navegación y reproducción multimedia
 
 ```bash
-https://github.com/isairey/movie-streaming-clientApp
+https://github.com/isairey/Plataform-Movie-Streaming-Client 
 ```
 
 ---
@@ -218,7 +218,7 @@ https://github.com/isairey/movie-streaming-clientApp
 - Gestión completa del sistema
 
 ```bash
-https://github.com/isairey/movie-streaming-adminApp
+https://github.com/isairey/Plataform-Movie-Streaming-Admin
 ```
 
 ---
