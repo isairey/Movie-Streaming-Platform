@@ -166,7 +166,7 @@ movie-streaming-platform/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/LanChuHoang/movie-streaming-api.git
+git clone https://github.com/isairey/movie-streaming-Plataform.git
 ```
 
 ---
@@ -207,7 +207,7 @@ npm run start:dev
 - Navegación y reproducción multimedia
 
 ```bash
-https://github.com/LanChuHoang/movie-streaming-client
+https://github.com/isairey/movie-streaming-clientApp
 ```
 
 ---
@@ -218,7 +218,7 @@ https://github.com/LanChuHoang/movie-streaming-client
 - Gestión completa del sistema
 
 ```bash
-https://github.com/LanChuHoang/movie-streaming-admin
+https://github.com/isairey/movie-streaming-adminApp
 ```
 
 ---
@@ -228,7 +228,7 @@ https://github.com/LanChuHoang/movie-streaming-admin
 - Backend desarrollado con NestJS
 
 ```bash
-https://github.com/LanChuHoang/movie-streaming-api
+https://github.com/isairey/movie-streaming-Plataform
 ```
 
 ---
@@ -362,7 +362,7 @@ git push origin feature/nueva-funcionalidad
 
 <div align="center">
 
-## Full Stack Streaming Developer
+## Isai Reyes Full Stack Streaming Developer
 
 Desarrollador enfocado en plataformas OTT, streaming multimedia y arquitecturas modernas Full Stack.
 
